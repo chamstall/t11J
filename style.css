@@ -1,0 +1,7 @@
+body{
+    /* background: linear-gradient(to right , green ,red); */
+    background-color: rgba(000,000,000,0.7);
+}
+p{
+    word-wrap: break-word;
+}
